@@ -22,7 +22,7 @@ I am not a coder, however, with the help of LLM I can learn, debugging, and appl
 
 > [!IMPORTANT]
 > **Due Monday 29th, 11pm**
-
+To me LLM is new normal in research field, This is usefull to find quicker way to solve research problems, simulate research environment and specially debugging of coding while data analysis. I am hopping with new and divers updates LLM will be a part and parcell of our research in near future.
 
 ---
 
@@ -31,3 +31,4 @@ I am not a coder, however, with the help of LLM I can learn, debugging, and appl
 > [!IMPORTANT]
 
 > **Due Thursday 2nd, 11am**
+
