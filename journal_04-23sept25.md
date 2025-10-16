@@ -22,7 +22,7 @@ I am not a coder, however, with the help of LLM I can learn, debugging, and appl
 
 > [!IMPORTANT]
 > **Due Monday 29th, 11pm**
-
+This discussion was about how AI is impacting our everyday learning, This might be a necessary evil if not hanled properly. How use of AI is impacting our cognetive reasoning especially for young learners and how well the current education system is dealing with AI. 
 
 ---
 
@@ -31,3 +31,4 @@ I am not a coder, however, with the help of LLM I can learn, debugging, and appl
 > [!IMPORTANT]
 
 > **Due Thursday 2nd, 11am**
+
